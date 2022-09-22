@@ -6,3 +6,5 @@ def SerieFibonacci(x):
 k = int(input("quanti numeri della serie vuoi visualizzare?  "))
 for n in range(1, k+1):
     print(SerieFibonacci(n))
+    
+    #sus
